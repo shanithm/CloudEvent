@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">1981c39c971111109be73e2e6253af73</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 03:56:41</sys_created_on>
+        <sys_id>9581c39c971111109be73e2e6253af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_update_name>sp_column_9581c39c971111109be73e2e6253af77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 03:56:41</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</application>
+        <file_path/>
+        <instance_id>db44c2c3dbc39450f37acac5059619f7</instance_id>
+        <instance_name>tac03980</instance_name>
+        <name>sp_column_9581c39c971111109be73e2e6253af77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="2">1981c39c971111109be73e2e6253af73</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-10 03:56:41</sys_created_on><sys_id>9581c39c971111109be73e2e6253af77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package><sys_policy/><sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope><sys_update_name>sp_column_9581c39c971111109be73e2e6253af77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-10 03:56:41</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1271059396</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>36ee361c971111109be73e2e6253af37</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 03:56:41</sys_created_on>
+        <sys_id>9981cf9c971111109be73e2e6253af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18285e5bb990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 03:56:41</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d181cf9c0f1111104a6c9a55b15ee753</update_guid>
+        <update_guid_history>d181cf9c0f1111104a6c9a55b15ee753:-1271059396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">2904cf10975111109be73e2e6253afb9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-10 04:07:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>21a9dfa6d55a41b89c8fcd0c2f0648c1</sys_id>
+        <sys_metadata>9581c39c971111109be73e2e6253af77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Cloud Dimensions Events" source="x_snc_cloudevents">77108b70610813007f44e59882b97a67</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Dimensions Events">77108b70610813007f44e59882b97a67</sys_scope>
+        <sys_scope_delete display_value="">138146ecda3441d3867e598472462431</sys_scope_delete>
+        <sys_update_name>sp_column_9581c39c971111109be73e2e6253af77</sys_update_name>
+        <sys_update_version display_value="sp_column_9581c39c971111109be73e2e6253af77">9981cf9c971111109be73e2e6253af53</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-10 04:07:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
